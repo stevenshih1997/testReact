@@ -36,7 +36,7 @@ export default class PromptContainer extends Component {
 
       this.context.router.history.push({
         pathname: '/battle',
-        queru: {
+        query: {
           playerOne: this.props.match.params.playerOne,
           playerTwo: this.state.username,
         },
