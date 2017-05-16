@@ -3,6 +3,8 @@
 
 import { render, } from 'react-dom';
 import routes from './config/routes';
+// Example React components ES5/ES6
+
 // export default class Header {
 //   render() {
 //     return (
