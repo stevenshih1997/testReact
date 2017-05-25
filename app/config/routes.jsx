@@ -5,11 +5,10 @@ import Home from '../components/Home';
 import PromptContainer from '../containers/PromptContainer';
 import ConfirmBattleContainer from '../containers/ConfirmBattleContainer';
 
-
 const routes = (
   <Router>
     <div>
-      <Link to="/">Main </Link>
+      <Link to="/">Main</Link>
       <Link to="/home">Home</Link>
       <Route component={Main} />
       <Route path="/home" render={(props) => <Home {...props} />} />
