@@ -14,6 +14,7 @@ import routes from './config/routes';
 //   }
 // }
 
+// ES6
 // const getProfilePic = (username) => { return `https://photo.fb.com/ ${username}`; };
 // const getProfileLink = (username) => { return `https://www.fb.com/ ${username}`; };
 
@@ -32,6 +33,7 @@ import routes from './config/routes';
 //   );
 // }
 
+// ES6
 // class hi extends React.Component {
 //   render() {
 //     return (
