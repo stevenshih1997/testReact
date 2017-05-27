@@ -46,6 +46,7 @@ import routes from './config/routes';
 //   username: 'stevenshih1997',
 // };
 
+// ES6
 // class HelloWorld extends React.Component {
 //   render() {
 //     return (
