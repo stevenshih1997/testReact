@@ -1,7 +1,7 @@
 import React, { Component, } from 'react';
 import Prompt from '../components/prompt';
 
-
+// ES6
 export default class PromptContainer extends Component {
   static contextTypes = {
     router: React.PropTypes.object.isRequired,
