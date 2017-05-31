@@ -1,8 +1,8 @@
 import React from 'react';
 import { Link, } from 'react-router-dom';
-import transparentBg from '../styles';
+import transparentBg from '../styles'; // import stylesheet
 
-
+// ES6
 export default class Home extends React.Component {
   render() {
     return (
